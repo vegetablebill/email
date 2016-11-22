@@ -157,7 +157,6 @@ public abstract class EmailAttachment {
 	/**
 	 * Returns byte content of the attachment.
 	 */
-	@SuppressWarnings("resource")
 	public byte[] toByteArray() {
 		FastByteArrayOutputStream out = size != -1 ? new FastByteArrayOutputStream(
 				size) : new FastByteArrayOutputStream();
