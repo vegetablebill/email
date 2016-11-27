@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="test"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.5.0_22_32bit"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.6.0_45-64bit"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/utils"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/utils_io"/>
 	<classpathentry kind="lib" path="javamail-mail-1.4.jar"/>
